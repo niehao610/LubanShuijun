@@ -1,0 +1,41 @@
+{
+    "accounts": [
+        {
+            "email": "PittmanEriczo1h073@gmail.com",
+            "password": "qt36XvXK9x1R",
+            "profile_dir": "profile_1",
+            "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
+            "proxy": {
+                "type": "http",
+                "host": "127.0.0.1",
+                "port": "7897"
+            }
+        },
+        {
+            "email": "BarkerXavierg7lqb07@gmail.com",
+            "password": "iSF0yCkviubD",
+            "profile_dir": "profile_2",
+            "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
+            "proxy": {
+                "type": "http",
+                "host": "dc.smartproxy.com",
+                "port": "10001",
+                "username": "sp1ajs872a",
+                "password": "yyxaTdh+k929TQS8tp"
+            }
+        }
+    ],
+    "videos": [
+        {
+            "url": "https://www.youtube.com/watch?v=ZUlu7T00Sss",
+            "min_watch_time": 30,
+            "max_watch_time": 60
+        },
+        {
+            "url": "https://www.youtube.com/watch?v=1tmzouz7aoE",
+            "min_watch_time": 45,
+            "max_watch_time": 90
+        }
+    ],
+    "comment_api_url": "https://api.example.com/comments"
+}
